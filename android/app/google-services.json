@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996483053592",
+    "firebase_url": "https://safh-cebcb.firebaseio.com",
+    "project_id": "safh-cebcb",
+    "storage_bucket": "safh-cebcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996483053592:android:c882f1b0c8025c7dda6b6d",
+        "android_client_info": {
+          "package_name": "com.safhpackage.safh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996483053592-sfcui0l9p13imtrjeta00jvr74ncdvrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNumgArdR56RTnWItF5bbMyY0QyS4XtAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996483053592-sfcui0l9p13imtrjeta00jvr74ncdvrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
